@@ -115,3 +115,64 @@ src/
 ├── App.jsx
 ├── index.css
 └── main.jsx
+
+Development
+
+The project follows a component-based React architecture.
+
+Reusable UI elements are organized into components, while application pages are separated according to their user roles and functional areas.
+
+The project also uses React Context to manage shared library application state across different parts of the application.
+
+Portfolio Highlights
+
+This project demonstrates practical experience with:
+
+React.js component-based development
+JavaScript
+Responsive web interface development
+Tailwind CSS
+CRUD application architecture
+Role-based application flows
+State management with React Context
+Search and filtering
+Form handling
+Modal and dialog components
+Pagination
+Borrowing and return workflows
+Git and GitHub version control
+Project Status
+
+Current status: Frontend application completed.
+
+The current version uses simulated/local application data to demonstrate the complete user interface and library management workflows.
+
+Future Development
+
+Potential improvements for the next development phase include:
+
+REST API integration
+Backend development with Node.js and Express.js
+PostgreSQL database integration
+Persistent authentication and authorization
+Server-side data validation
+File/image upload
+Advanced reporting and analytics
+Fine calculation for overdue books
+Email notifications
+Screenshots
+
+Screenshots of the application will be added here.
+
+Author
+
+Allensia
+
+Informatics Engineering Graduate
+Web Developer | Front-End Development | UI/UX
+
+Copyright
+
+© 2026 Allensia. All rights reserved.
+
+This repository is published for portfolio and evaluation purposes. No license is granted for redistribution, commercial use, or reuse of the source code without permission.
